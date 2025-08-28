@@ -1,3 +1,4 @@
+# test_commit
 SELECT
   r.rolname AS role_name,
   n.nspname AS schema_name,
