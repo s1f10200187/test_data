@@ -1,0 +1,5 @@
+aws logs get-log-events \
+  --log-group-name <ロググループ名> \
+  --log-stream-name <ログストリーム名> \
+  --start-from-head \
+  --output text > <保存ファイル名>
