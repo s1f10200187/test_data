@@ -1,0 +1,6 @@
+logs/
+config_yaml/
+downloads/
+local_overrides/
+**/__pycache__/
+.vscode/
